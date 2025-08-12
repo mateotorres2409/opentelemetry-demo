@@ -1,0 +1,3 @@
+volume/grafana/data
+volume/prometheus/data
+volume/tempo/data
